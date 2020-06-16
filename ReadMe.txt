@@ -1,11 +1,13 @@
-ÆÄÀÌ½ã°ú ÇÊ¿ä ¸ðµâµéÀÌ ¼³Ä¡µÇ¾î ÀÖÁö ¾ÊÀº È¯°æ¿¡¼­µµ ÀÛµ¿ÇÒ ¼ö ÀÖ°Ô exe ÆÄÀÏµµ Ã·ºÎÇÏ¿´½À´Ï´Ù.
+íŒŒì´ì¬ê³¼ í•„ìš” ëª¨ë“ˆë“¤ì´ ì„¤ì¹˜ë˜ì–´ ìžˆì§€ ì•Šì€ í™˜ê²½ì—ì„œë„ ìž‘ë™í•  ìˆ˜ ìžˆê²Œ exe íŒŒì¼ë„ ì²¨ë¶€í•˜ì˜€ìŠµë‹ˆë‹¤.
 
-GoClean.exe¸¦ ½ÇÇàÇÏ¸é '¹ÙÅÁÈ­¸éÀÇ Ransom Æú´õ'¸¦ °¨¿°½ÃÅµ´Ï´Ù. (AES ¾ÏÈ£È­)
+GoClean.exeë¥¼ ì‹¤í–‰í•˜ë©´ 'ë°”íƒ•í™”ë©´ì˜ Ransom í´ë”'ë¥¼ ê°ì—¼ì‹œí‚µë‹ˆë‹¤. (AES ì•”í˜¸í™”)
 
-Ransom Æú´õ¿¡ µ¿¿µ»ó, ¹®¼­ÆÄÀÏ, ½ÇÇàÆÄÀÏ ¹× ÀÌ¹ÌÁö »ùÇÃÀ» Ã·ºÎÇß½À´Ï´Ù.
+Ransom í´ë”ì— ë™ì˜ìƒ, ë¬¸ì„œíŒŒì¼, ì‹¤í–‰íŒŒì¼ ë° ì´ë¯¸ì§€ ìƒ˜í”Œì„ ì²¨ë¶€í–ˆìŠµë‹ˆë‹¤.
 
-¹ÙÅÁÈ­¸é¿¡ Ransom Æú´õ¸¦ º¹»çÇØ ÁÖ½Å ÈÄ GoClean.exe¸¦ ½ÇÇàÇÏ¼Å¼­ Å×½ºÆ®ÇØº¸½Ç ¼ö ÀÖ½À´Ï´Ù.
+ë°”íƒ•í™”ë©´ì— Ransom í´ë”ë¥¼ ë³µì‚¬í•´ ì£¼ì‹  í›„ GoClean.exeë¥¼ ì‹¤í–‰í•˜ì…”ì„œ í…ŒìŠ¤íŠ¸í•´ë³´ì‹¤ ìˆ˜ ìžˆìŠµë‹ˆë‹¤.
 
-ÆÄÀÏÀÌ °¨¿°µÈ ÈÄ¿¡´Â ransom_vaccine.exe¸¦ ½ÇÇà½ÃÅ°½Ã¸é °¨¿°µÇ¾ú´ø ÆÄÀÏÀÌ ¸ðµÎ º¹È£È­ µË´Ï´Ù.
+íŒŒì¼ì´ ê°ì—¼ëœ í›„ì—ëŠ” ransom_vaccine.exeë¥¼ ì‹¤í–‰ì‹œí‚¤ì‹œë©´ ê°ì—¼ë˜ì—ˆë˜ íŒŒì¼ì´ ëª¨ë‘ ë³µí˜¸í™” ë©ë‹ˆë‹¤.
 
-GoClean.exe ÆÄÀÏÀº ³×ÀÌ¹ö ¼ÒÇÁÆ®¿þ¾î ÀÚ·á½Ç ÆÄ¹Ö ÆäÀÌÁö¿¡¼­ ´Ù¿î·Îµå ¹öÆ°À» Å¬¸¯ÇÒ ½Ã ´Ù¿î·Îµå µÇ´Â ÆÄÀÏÀÔ´Ï´Ù.
+GoClean.exe íŒŒì¼ì€ ë„¤ì´ë²„ ì†Œí”„íŠ¸ì›¨ì–´ ìžë£Œì‹¤ íŒŒë° íŽ˜ì´ì§€ì—ì„œ ë‹¤ìš´ë¡œë“œ ë²„íŠ¼ì„ í´ë¦­í•  ì‹œ ë‹¤ìš´ë¡œë“œ ë˜ëŠ” íŒŒì¼ìž…ë‹ˆë‹¤.
+
+https://ransom.ktwserver.xyz/
